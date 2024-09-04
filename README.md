@@ -1,4 +1,4 @@
-# Accenture-Data-Analytics-and-Visualization-Virtual-Internship
+# Accenture-Data-Analytics-and-Visualization-Forage
 ## Certificate:
 [Accenture internship certificate.pdf](https://github.com/fazilahd/Accenture-project/blob/main/Accenture%20internship%20certificate.pdf)
 
